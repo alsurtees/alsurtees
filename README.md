@@ -1,4 +1,4 @@
-<b>I've never seen anything worse than the code written here.</b>
+<i>I've never seen anything worse than the code written here.<caption>- A wise man.</caption></i>
 
 <!---
 alsurtees/alsurtees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
